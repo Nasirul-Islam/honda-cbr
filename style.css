@@ -35,3 +35,15 @@ body {
 .img-rounded {
     border-radius: 8px;
 }
+.collection {
+    overflow: hidden;
+}
+.collection:hover img{
+    transform: scale(1.3);
+    transition: all linear .6s;
+}
+
+.comming-bg {
+    background: #e2cdc963;
+    border-radius: 20px;
+}
