@@ -1,0 +1,23 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* custom css */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner-bg {
+    background: #264653;
+}
+
+.btn-color {
+    background:#E76F51;
+}
+
+.gray-scle {
+    filter: grayscale(100%);
+}
+
+.color-para{
+    color: #E76F51;
+}
