@@ -14,10 +14,24 @@ body {
     background:#E76F51;
 }
 
+.i-color {
+    color:#E76F51;
+}
+
 .gray-scle {
     filter: grayscale(100%);
 }
 
 .color-para{
     color: #E76F51;
+}
+
+.card-img {
+    width: 149px;
+    height: 149px;
+    border-radius: 50%;
+}
+
+.img-rounded {
+    border-radius: 8px;
 }
